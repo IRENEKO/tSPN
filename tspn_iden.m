@@ -1,4 +1,5 @@
 function [core,nz,data,testdata]=tspn_iden(tensor,weight,sample_train,sample_test,opts)
+% 2018, Ching-Yun Ko
 switch opts.case
     case 0
         rd(1)=false;
