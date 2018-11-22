@@ -1,4 +1,5 @@
 function B=findnonsample(A,n)
+% 2018, Ching-Yun Ko
 d=size(A,2);
 B=[];
 while size(B,1)<n
