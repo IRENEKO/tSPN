@@ -1,4 +1,4 @@
-Deep Model Compression and Inference Speedup of Sum-Product Networks on Tensor Networks for Matlab&copy;/Octave&copy;
+Deep Model Compression and Inference Speedup of Sum-Product Networks on Tensor Trains for Matlab&copy;/Octave&copy;
 --------------------------------------------------------------------------------------------------
 
 This package contains Matlab/Octave code for converting a trained SPN to conpact tSPN.
@@ -29,7 +29,7 @@ Computes the inference for canonical polyadic terms.
 
 2. Reference
 ------------
-"Deep Model Compression and Inference Speedup of Sum-Product Networks on Tensor Networks"
+"Deep Model Compression and Inference Speedup of Sum-Product Networks on Tensor Trains"
 
 Authors: Ching-Yun Ko, Cong Chen, Yuke Zhang, Kim Batselier, Ngai Wong
 
