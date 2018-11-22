@@ -25,7 +25,7 @@ Finds non-samples (negative sampling).
 
 * inference = cpSPNinf(tensor,weight,samples)
 
-Compute the inference for canonical polyadic terms.
+Computes the inference for canonical polyadic terms.
 
 2. Reference
 ------------
